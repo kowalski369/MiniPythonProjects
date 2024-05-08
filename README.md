@@ -1,1 +1,1 @@
-# MiniPythonProjects
+# This repository conatins all my small python projects.
