@@ -1,6 +1,6 @@
 # Info
 
-a = "Simple Arthematic calculator made by kowalski"
+a = "Simple Arthematic calculator"
 mod = a.title().center(50,"~")
 print(mod)
 
