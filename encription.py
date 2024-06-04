@@ -2,7 +2,7 @@
 # unreadble format texts to convert it to readble format by this it acts like a encription
 import random
 
-rndstr = "asd dgg wer dsd fgd htr vxx ujt zxc iku oii yoo sdf ass bcv dog bat fat okk wet bed"
+rndstr = "asd dgg wer dsd fgd htr vxx ujt zxc iku oii yoo sdf ass bcv dog bat fat okk wet bed mom mko coo poo sdf vfr yhb nji mks ead"
 rnd = rndstr.split()
 def main():
     # taking user input
